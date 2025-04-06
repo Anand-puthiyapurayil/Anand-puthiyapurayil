@@ -54,11 +54,6 @@ I thrive on turning data into actionable insights, optimizing workflows, integra
 - **Continual Learning for Facial Recognition:** Implemented drift detection, adaptive modeling, and Bayesian inference.
 - **Model Explainability Pipeline:** Leveraged SHAP and MLflow for transparent ML model deployment.
 
----
-
-### 🏅 Certifications & Honors
-- **SAP S/4HANA Embedded Analytics**
-- **Certified Data Scientist, IABAC**
 
 ---
 ### 🤝 Let's Connect
