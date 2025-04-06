@@ -23,8 +23,6 @@ I thrive on turning data into actionable insights, optimizing workflows, integra
 - Built data pipelines and anomaly detection models.
 - Enhanced prediction accuracy by 20% using statistical and heuristic approaches.
 
-**🔹 Product Specialist @ Byju's** *(Dec 2018 – Jun 2019)*  
-- Drove sales and provided technical insights into educational products.
 
 ---
 
@@ -37,9 +35,10 @@ I thrive on turning data into actionable insights, optimizing workflows, integra
 ### 🛠️ Technical Skills
 - **Languages:** Python, SQL
 - **Big Data & Cloud:** Spark, Databricks, Azure, SAP Cloud Platform
-- **MLOps & CI/CD:** MLflow, Jenkins, Airflow, JIRA
-- **Frameworks & Tools:** FastAPI, Streamlit, Grafana, Plotly, Git
-- **ML Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, SHAP, Matplotlib
+- **MLOps & CI/CD:** MLflow, Jenkins, Airflow, JIRA 
+- **Frameworks & Tools:** FastAPI, Streamlit, Grafana, Plotly, Git , Langchain 
+- **ML Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, SHAP, Matplotlib, Hugginface 
+
 
 ---
 
@@ -55,12 +54,6 @@ I thrive on turning data into actionable insights, optimizing workflows, integra
 - **Certified Data Scientist, IABAC**
 
 ---
-
-### 🌎 Languages
-- English | French | Malayalam | Hindi
-
----
-
 ### 🤝 Let's Connect
 - 📧 [anand.nelliot@gmail.com](mailto:anand.nelliot@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/anand-p-/)
