@@ -1,6 +1,6 @@
 
 
-![what I do](assets/coverpicture.png)
+![what I do]()
 
 ## Hi there 👋, I'm Anand Puthiyapurayil!
 
