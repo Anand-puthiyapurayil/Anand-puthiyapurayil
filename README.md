@@ -1,4 +1,9 @@
+
+
+![what I do](assets/coverpicture.png)
+
 ## Hi there 👋, I'm Anand Puthiyapurayil!
+
 
 ### 👨‍💻 About Me
 I'm an experienced **Big Data and Machine Learning Engineer** passionate about creating scalable and impactful AI-driven solutions. My expertise spans from designing and industrializing end-to-end MLOps pipelines to managing comprehensive data science workflows.
@@ -6,6 +11,7 @@ I'm an experienced **Big Data and Machine Learning Engineer** passionate about c
 I thrive on turning data into actionable insights, optimizing workflows, integrating innovative AI solutions into real-world applications, and making **Enterprise AI a reality**.
 
 ---
+
 
 ### 🚀 Professional Journey
 
