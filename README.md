@@ -49,6 +49,7 @@ I thrive on turning data into actionable insights, optimizing workflows, integra
 ---
 
 ### 🌟 Featured Projects
+- **AI Powered Search Engine:** Deployed an efficient Hybrid Search Engine and RAG based Product Summary system .
 - **MLOps Framework & Feature Store:** Deployed efficient ML workflows from prototyping to production.
 - **Continual Learning for Facial Recognition:** Implemented drift detection, adaptive modeling, and Bayesian inference.
 - **Model Explainability Pipeline:** Leveraged SHAP and MLflow for transparent ML model deployment.
