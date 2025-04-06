@@ -22,7 +22,8 @@ I thrive on turning data into actionable insights, optimizing workflows, integra
 
 **🔹 Big Data & ML Engineer @ SAP** *(Oct 2022 – Mar 2023)*  
 - Developed Azure-based Data Lake solutions (Databricks, Spark, MLflow).
-- Created automated monitoring solutions, reducing downtime by 30%.
+- Created automated monitoring solutions for artifacts 
+- Developed an efficient MLops Framework with CI/CD in within Databricks for the end users
 - Implemented a Feature Store, enhancing ML production efficiency by 15%.
 
 **🔹 Data Scientist Intern @ Rubixe Information Technology & Services** *(Mar 2020 – Jul 2020)*  
@@ -43,7 +44,7 @@ I thrive on turning data into actionable insights, optimizing workflows, integra
 - **Big Data & Cloud:** Spark, Databricks, Azure, SAP Cloud Platform
 - **MLOps & CI/CD:** MLflow, Jenkins, Airflow, JIRA 
 - **Frameworks & Tools:** FastAPI, Streamlit, Grafana, Plotly, Git , Langchain 
-- **ML Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, SHAP, Matplotlib, Hugginface 
+- **ML Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, SHAP, Matplotlib, Huggingface
 
 
 ---
