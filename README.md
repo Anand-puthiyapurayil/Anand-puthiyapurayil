@@ -72,11 +72,11 @@ Hands-on across the full stack: lakehouse data platforms, ML pipelines, RAG and 
 
 ## 📜 Certifications
 
-- 🏅 **Azure Databricks Platform Architect** — Databricks Academy (2025)
-- 🏅 **Building RAG Agents with LLMs** — NVIDIA (2025)
-- 🏅 **SAP S/4HANA Embedded Analytics** — SAP (2023)
-- 🏅 **Certified Data Scientist** — IABAC (2020)
-- 🏅 **Data Science Foundation** — IABAC (2020)
+- 🏅 **[Azure Databricks Platform Architect](https://credentials.databricks.com/aa4e77d1-fcf1-47cd-8aee-2c2c09ad2854)** — Databricks Academy (2025) · [credential](assets/certificates/Databricks_Azure_Platform_Architect_credential.json)
+- 🏅 **[Building RAG Agents with LLMs](https://learn.nvidia.com/certificates?id=j2Df5LzUQ5SHZbV4YqnMKg)** — NVIDIA (2025) · [certificate](assets/certificates/NVIDIA_Building_RAG_Agents_with_LLMs.png)
+- 🏅 **[SAP S/4HANA Embedded Analytics](https://open.sap.com/verify/xutag-vahaz-mazuv-recon-hofih)** — SAP (2023) · [certificate](assets/certificates/SAP_S4HANA_Embedded_Analytics.pdf)
+- 🏅 **[Certified Data Scientist](https://iabac.org/verify-certificate/?certNum=IAB1120171718)** — IABAC (2020) · [certificate](assets/certificates/IABAC_Certified_Data_Scientist.pdf)
+- 🏅 **[Data Science Foundation](https://iabac.org/verify-certificate/?certNum=IAB1120171418)** — IABAC (2020) · [certificate](assets/certificates/IABAC_Data_Science_Foundation.pdf)
 
 ---
 
